@@ -27,7 +27,7 @@ Feel free contacting me via the following links:
         <a href="https://twitter.com/ChichekaMan">
             <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/>
         <a href="https://salimiahmad.ir/">
-            <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width=32/>
+            <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a>
 </div>
 
