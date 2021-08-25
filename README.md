@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hey this is Ahmad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-<!--
-**ahmadsalimi/ahmadsalimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My github account information is as follow:
 
-Here are some ideas to get you started:
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ahmadsalimi&show_icons=True"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsalimi&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+Feel free contacting me via the following links:
+
+<div align="center">
+        <a href="https://www.linkedin.com/in/ahmadsalimi/">
+            <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
+        </a>
+        <a href="https://www.instagram.com/ahmadsalimi__/">
+            <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
+        </a>
+        <a href="https://twitter.com/ChichekaMan">
+            <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/>
+        <a href="https://salimiahmad.ir/">
+            <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width=32/>
+        </a>
+</div>
+
+<p align=center>
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ahmadsalimi/ahmadsalimi">
+
+</p>
