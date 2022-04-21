@@ -15,7 +15,7 @@ My GitHub account information is as follows:
 
 ## Contact Me
 
-Feel free contacting me via the following links:
+Feel free to contact me via the following links:
 
 <div align="center">
         <a href="https://www.linkedin.com/in/ahmadsalimi/">
