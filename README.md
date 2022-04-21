@@ -24,7 +24,7 @@ Feel free to contact me via the following links:
         <a href="https://www.instagram.com/ahmadsalimi__/">
             <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
-        <a href="https://twitter.com/ChichekaMan">
+        <a href="https://twitter.com/ahmadsalimi_">
             <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/>
         <a href="https://salimiahmad.ir/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
